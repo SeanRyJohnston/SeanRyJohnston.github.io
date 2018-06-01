@@ -4,8 +4,8 @@
 permalink:           pretty
 
 # Setup
-title:               Efficient Cause
-tagline:             'Exploring data and showing how'
+title:               Sean Johnston
+tagline:             'Data Analyst'
 description:         'A blog aimed at exploring interesting data, discovering the core forces that explain it, and explaining how it was done.'
 url:                 seanryjohnston.github.io
 baseurl:             '/blog'
@@ -15,7 +15,7 @@ paginate:            5
 author:
   name:              Sean Johnston
   url:               
-  email:             markdotto@gmail.com
+  email:             
 
 # Custom vars
 version:             1.0.0
