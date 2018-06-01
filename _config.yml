@@ -8,7 +8,7 @@ title:               Sean Johnston
 tagline:             'Data Analyst'
 description:         'A blog aimed at exploring interesting data, discovering the core forces that explain it, and explaining how it was done.'
 url:                 seanryjohnston.github.io
-baseurl:             ''
+baseurl:             'blog/'
 paginate:            5
 
 # About/contact
