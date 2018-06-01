@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Under Constriction
+title: Under Construction
 ---
 
 Hello World!
