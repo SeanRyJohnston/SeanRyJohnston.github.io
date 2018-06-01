@@ -8,7 +8,7 @@ title:               Efficient Cause
 tagline:             'Exploring data and showing how'
 description:         'A blog aimed at exploring interesting data, discovering the core forces that explain it, and explaining how it was done.'
 url:                 seanryjohnston.github.io
-baseurl:             '/blog'
+baseurl:             ''
 paginate:            5
 
 # About/contact
